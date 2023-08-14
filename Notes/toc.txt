@@ -14,6 +14,8 @@ Reaxt JS
 - Routers
 - Server side communications
 - Redux
+- UI testing - JEST
+
 =====================================
 
 REACT WITH NEXT.JS : servide side rendering as well client side rendering
@@ -26,6 +28,20 @@ Outcome of this traning / objectives
 - design and implement server side rendering web applications
 - design and implement client side rendering web apps
 - design a case study on react js end to end implementation
+
+
+ Software
+ =============
+ 1.Node.js (https://nodejs.org/en)
+ 2.VS code editor : https://code.visualstudio.com
+ 3.chrome browser
+ 4.MYSQL8 / mongo db
+ 5. express-js/loopback-js / java spring boot rest framework for API design
+
+
+
+
+
 
 
 
