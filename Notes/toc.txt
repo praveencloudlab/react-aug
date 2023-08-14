@@ -1,0 +1,37 @@
+
+1.HTML5 and CSS is must
+2.Java script basic level is must
+
+
+Reaxt JS
+====================================
+- UI tech basics
+- DOM
+- Intro React
+- Components and communications
+- state and props
+- Forms
+- Routers
+- Server side communications
+- Redux
+=====================================
+
+REACT WITH NEXT.JS : servide side rendering as well client side rendering
+
+
+Outcome of this traning / objectives
+========================================
+- migrate to component based technologies
+- create and test react based web as well single page app development
+- design and implement server side rendering web applications
+- design and implement client side rendering web apps
+- design a case study on react js end to end implementation
+
+
+
+
+
+
+
+
+
