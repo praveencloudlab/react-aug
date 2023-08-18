@@ -1,0 +1,17 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.card {
+    width: 18rem;   /* You can set this value as needed */
+    height: 100%;   /* This makes sure all cards in the same row have the same height */
+}
+
+.card-img-top {
+    height: 15rem;   /* Adjust this value to your needs */
+    object-fit: cover;  /* This ensures the image covers the space without stretching */
+}
+
+.fa-star{
+    color: rgba(0, 65, 145, 0.922);
+}
+.unfilled.fa-star{
+    color: grey;
+}

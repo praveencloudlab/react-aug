@@ -1,0 +1,10 @@
+react js props and state
+=============================
+1.props : props is a object which contains data to be transfered from parent 
+          component to child component.
+2.state : state contains data which is avaiable to all the functions with in
+          the same component
+
+ note: 
+
+ 
