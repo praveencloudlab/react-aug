@@ -3,8 +3,9 @@ react js props and state
 1.props : props is a object which contains data to be transfered from parent 
           component to child component.
 2.state : state contains data which is avaiable to all the functions with in
-          the same component
+          the same component. when ever state changes, component will be re-rendered with upddated state data.
 
- note: 
+ note: props are immutable. This means that component can not change its own props. Porps are read-omjly and are passed down from paremt to child compoment
 
- 
+
+
