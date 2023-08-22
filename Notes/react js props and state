@@ -8,4 +8,20 @@ react js props and state
  note: props are immutable. This means that component can not change its own props. Porps are read-omjly and are passed down from paremt to child compoment
 
 
+ React js hooks
+ =================
+ 1.useState
+ 2.useEffect
+ 3.useContext (centralized data)
+
+ Additiobal hooks
+ -----------------
+ 4.useReducer (data management)
+ 5.useMemo
+ 6.useRef (forms)
+
+
+
+
+
 
