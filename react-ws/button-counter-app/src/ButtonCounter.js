@@ -17,7 +17,7 @@ function ButtonCounter({ number, onButtonClick, reset }) {
   return (
     <div className="card m-2 text-center">
       <div className="card-body">
-        <h6 className="card-title">Clicks Count: {hitCount}</h6>
+        <h4 className="card-title">Clicks Count: {hitCount}</h4>
         <hr />
         <button className="btn btn-primary mb-2" onClick={handleClick}>
           {number}
