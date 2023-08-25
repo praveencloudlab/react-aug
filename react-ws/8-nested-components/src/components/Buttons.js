@@ -21,8 +21,7 @@ const Buttons = (props) => {
             <span>Hits: {hitCounter}</span>
             <hr/>
             <button onClick={buttonHitCounter}>{label}</button>
-            </div>
-            
+            </div> 
         </div>
     );
 };
