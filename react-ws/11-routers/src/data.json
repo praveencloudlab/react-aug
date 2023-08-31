@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Mobile Phones",
+            "products": ["iPhone X", "Samsung Universe 9", "OPPOF19", "Huawei P30"]
+        },
+        {
+            "id": 2,
+            "name": "Laptops",
+            "products": ["MacBook Pro", "Samsung Galaxy Book", "Microsoft Surface Laptop 4", "Infinix INBOOK", "HP Pavilion 15-DK1056WM"]
+        },
+        {
+            "id": 3,
+            "name": "Perfumes and Fragrances",
+            "products": ["perfume Oil", "Brown Perfume", "Fog Scent Xpressio Perfume", "Non-Alcoholic Concentrated Perfume Oil", "Eau De Perfume Spray"]
+        },
+        {
+            "id": 4,
+            "name": "Skin Care",
+            "products": ["Hyaluronic Acid Serum", "Tree Oil 30ml", "Oil Free Moisturizer 100ml", "Skin Beauty Serum.", "Freckle Treatment Cream- 15gm"]
+        },
+        {
+            "id": 5,
+            "name": "Groceries",
+            "products": ["Daal Masoor 500 grams", "Elbow Macaroni - 400 gm", "Orange Essence Food Flavou", "cereals muesli fruit nuts", "Gulab Powder 50 Gram"]
+        },
+        {
+            "id": 6,
+            "name": "Home Decor",
+            "products": ["Plant Hanger For Home", "Flying Wooden Bird", "3D Embellishment Art Lamp", "Handcraft Chinese style", "Key Holder"]
+        }
+    ]
+}

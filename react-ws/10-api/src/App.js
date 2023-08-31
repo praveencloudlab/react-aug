@@ -3,7 +3,7 @@ import ProductList from './components/ProductList';
 import ProductForm from './components/ProductForm';
 
 const App = () => {
-  const[showComponent,setShowComponent]=useState(false);
+  const[showComponent,setShowComponent]=useState(true);
   return (
     <div className='container'>
       
